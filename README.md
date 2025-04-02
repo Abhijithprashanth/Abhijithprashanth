@@ -64,7 +64,7 @@ I'm Abhijith K, a Certified SOC Analyst, Aspiring Cybersecurity Analyst, and Sec
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Packet Analysis Wireshark](https://github.com/Abhijithprashanth/Wireshark-for-Beginners-Capture-Packets)**    | Capturing and analyzing packets using Wireshark |
-| **[Wireshark-for-Beginners-Capture-Packets]([https://github.com/Abhijithprashanth/Wireshark-for-Beginners-Capture-Packets/])**    | Capturing and analyzing packets using Wireshark |
+| **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
